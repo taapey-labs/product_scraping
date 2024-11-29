@@ -1,0 +1,1 @@
+python ./intellisoft-main.py
